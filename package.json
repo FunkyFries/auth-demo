@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/FunkyFries/auth-demo/issues"
   },
-  "homepage": "https://github.com/FunkyFries/auth-demo#readme"
+  "homepage": "https://github.com/FunkyFries/auth-demo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "client-sessions": "^0.8.0",
+    "dotenv": "^6.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "helmet": "^3.14.0",
+    "mongoose": "^5.3.3",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^5.0.1"
+  }
 }
