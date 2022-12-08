@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/FunkyFries/auth-demo#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "client-sessions": "^0.8.0",
     "dotenv": "^6.1.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "helmet": "^3.14.0",
     "mongoose": "^5.7.5",
     "passport": "^0.4.0",
